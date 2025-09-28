@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h3>
-          App dockerized, compiled and deployed by zthcloud.
+          App dockerized, compiled and deployed by C3 Technology Holdings.
         </h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
